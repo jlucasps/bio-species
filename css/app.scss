@@ -1,0 +1,27 @@
+$fontColor: #006600; 
+$background: #FFFFFF; 
+$padding: 10px;
+$margin: 10px;
+
+.title {
+  color: #003333;
+}
+
+.species {
+  padding: $padding;
+  margin: $margin;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  background: $background;
+  color: $fontColor;
+ 
+  .specie {
+    padding: $padding;
+    margin: $margin;
+    border: 1px solid #006666;
+    border-radius: 5px;
+    color: $fontColor;
+  }
+
+}
+

@@ -1,0 +1,16 @@
+.title {
+  color: #003333; }
+
+.species {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  background: white;
+  color: #006600; }
+  .species .specie {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #006666;
+    border-radius: 5px;
+    color: #006600; }
